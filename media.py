@@ -1,5 +1,5 @@
 class Movie():
-	"""Represents a Movie and their properties."""
+	"""Represents a Movie and it properties."""
 	
 	def __init__(self, title, poster_image_url, trailer_youtube_url):
 		self.title = title
